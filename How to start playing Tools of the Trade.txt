@@ -1,7 +1,7 @@
 # ToolsOfTheTrade
 
 To play Tools of the Trade:
-1- Go here to download the executable's folder (zipped): https://drive.google.com/open?id=10_1FRQ4W0y9g0RhbgkNPxZIBOnytNWu3
+1- Go here to download the executable's folder (zipped): https://drive.google.com/file/d/10_1FRQ4W0y9g0RhbgkNPxZIBOnytNWu3/view?usp=sharing
 2- Once downloaded, extract its content
 3- Click on the extracted "Tools of the Trade Game" folder to find the game.
 4- Launch the game simply by clicking on the executable file called "TheToolsOfTheTradeLauncher.exe"
