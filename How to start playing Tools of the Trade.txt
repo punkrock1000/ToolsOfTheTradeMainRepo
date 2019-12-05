@@ -1,0 +1,11 @@
+# ToolsOfTheTrade
+
+To play Tools of the Trade:
+1- Go here to download executable folder (zipped): https://drive.google.com/open?id=10_1FRQ4W0y9g0RhbgkNPxZIBOnytNWu3
+2- Once downloaded, extract its content
+3- Click on the extracted "Tools of the Trade Game" folder to find the game.
+4- Launch the game simply by clicking on the executable file called "TheToolsOfTheTradeLauncher.exe"
+
+The game is playable with mouse and keyboard,
+however it is recommended to play it using a Xbox One or Xbox 360 controller
+(or even a PS3/PS4 controller set up to mimic the 360 controller)

@@ -1,0 +1,4 @@
+1- Download the zipped website here (because of videos it was too big for github):
+
+2- Extract Tools of the Trade Website - Cart 415 Final Project Demo.zip
+3- Open KickstarterStyleWebsite.html
